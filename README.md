@@ -116,5 +116,3 @@ The API and these methods were discovered by reverse engineering the iOS applica
 ## Improvements
 
 At present, this library provides a relatively thin wrapper for the API. I plan on implementing first-class objects with type coercion and methods to retrieve images, etc.
-
-Twitter: [@cpatuzzo](https://twitter.com/cpatuzzo)
